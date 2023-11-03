@@ -1,0 +1,16 @@
+*{
+  background-color: black;
+}
+
+
+
+.imgcad {
+  margin: 10px;
+   /* box-sizing: border-box; */
+  display: inline-block; 
+  /* width: 30%; */
+  
+
+  
+  background-color: black;
+}
